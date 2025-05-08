@@ -1,9 +1,27 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MoneyExtension</PackageId>
+    <Version>1.0.0</Version>
+    <Icon></Icon>
+    <License>MIT</License>
+    <Authors>Alessandro Duarte</Authors>
+    <Company>CODER</Company>
+    <PackageDescription>Extension to convert decimal to integer</PackageDescription>
+    <Description>Extension to convert decimal to integer</Description>
+    <RepositoryUrl>https://github.com/AMDEVCODE/money-extensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/AMDEVCODE/money-extensions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon></PackageIcon>
+    <PackageTags></PackageTags>
+    <ReleaseNotes></ReleaseNotes>
+    <Title></Title>
+    <Summary></Summary>
+
   </PropertyGroup>
 
 </Project>
