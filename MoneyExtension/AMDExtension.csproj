@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>SimpleExtension</PackageId>
+    <PackageId>AMDExtension</PackageId>
     <Version>1.0.0</Version>
     <Icon></Icon>
     <License>MIT</License>

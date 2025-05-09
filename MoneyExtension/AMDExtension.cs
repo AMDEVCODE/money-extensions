@@ -1,4 +1,4 @@
-﻿namespace SimpleExtension;
+﻿namespace AMDExtension;
 
 public static class Money
 {

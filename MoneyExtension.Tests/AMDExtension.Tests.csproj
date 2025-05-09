@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MoneyExtension\SimpleExtension.csproj" />
+    <ProjectReference Include="..\MoneyExtension\AMDExtension.csproj" />
   </ItemGroup>
 
 </Project>

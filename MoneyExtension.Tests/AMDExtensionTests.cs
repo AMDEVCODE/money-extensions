@@ -1,7 +1,7 @@
-namespace SimpleExtension.Tests;
+namespace AMDExtension.Tests;
 
 [TestClass]
-public class SimpleExtensionTests
+public class AMDExtensionTests
 {
     [TestMethod]
     public void ShouldConvertDecimalToInt()
