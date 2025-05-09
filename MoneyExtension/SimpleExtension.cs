@@ -1,4 +1,4 @@
-﻿namespace MoneyExtension;
+﻿namespace SimpleExtension;
 
 public static class Money
 {
